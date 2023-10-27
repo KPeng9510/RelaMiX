@@ -1,9 +1,10 @@
 # RelaMiX: Exploring Few-Shot Adaptation in Video-based Action Recognition
 <img src="main.png" width="1080"/>
+
 ## Contents
 Domain adaptation is essential for activity recognition, as common spatiotemporal architectures risk overfitting due to increased parameters arising from the temporal dimension. Unsupervised domain adaptation methods have been extensively studied, yet, they require large-scale unlabeled data from the target domain. 
 
-In this work, we address \emph{Few-Shot Domain Adaptation for video-based Activity Recognition (FSDA-AR)}, which leverages a very small amount of labeled target videos to achieve effective adaptation. This setting is attractive and promising for applications, as it requires recording and labeling only a few, or even a single example per class in the target domain, which often includes activities that are rare yet crucial to recognize. We construct FSDA-AR benchmarks using five established datasets considering diverse domain types: UCF101, HMDB51, EPIC-KITCHEN, Sims4Action, and ToyotaSmartHome.  We further propose a novel approach, RelaMiX, to better leverage the few labeled target domain samples as knowledge guidance.
+In this work, we address Few-Shot Domain Adaptation for video-based Activity Recognition (FSDA-AR), which leverages a very small amount of labeled target videos to achieve effective adaptation. This setting is attractive and promising for applications, as it requires recording and labeling only a few, or even a single example per class in the target domain, which often includes activities that are rare yet crucial to recognize. We construct FSDA-AR benchmarks using five established datasets considering diverse domain types: UCF101, HMDB51, EPIC-KITCHEN, Sims4Action, and ToyotaSmartHome.  We further propose a novel approach, RelaMiX, to better leverage the few labeled target domain samples as knowledge guidance.
 
 RelaMiX encompasses a temporal relational attention network with relation dropout, alongside a cross-domain information alignment mechanism. Furthermore, it integrates a mechanism for Mixing features within a latent space, which is cognizant of data snippets.
 ## Requirements
