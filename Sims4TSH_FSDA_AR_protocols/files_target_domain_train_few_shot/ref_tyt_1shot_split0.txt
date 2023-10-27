@@ -1,0 +1,10 @@
+Cook.Stir_p15_r10_v16_c06 83 0
+Drink.Fromcup_p04_r04_v01_c05 90 1
+Eat.Attable_p07_r22_v08_c02 39 2
+Readbook_p04_r08_v08_c01 90 3
+Uselaptop_p19_r01_v03_c05 90 4
+Usetablet_p06_r00_v27_c01 90 5
+Usetelephone_p04_r00_v05_c04 90 6
+Walk_p09_r01_v13_c03 90 7
+WatchTV_p03_r03_v19_c05 90 8
+Sitdown_p25_r01_v04_c04 32 9

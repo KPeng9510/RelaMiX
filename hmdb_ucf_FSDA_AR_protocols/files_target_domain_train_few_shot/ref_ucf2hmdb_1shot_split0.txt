@@ -1,0 +1,12 @@
+dataset/hmdb51/RGB-feature/Rock_Climbing_Nationals_08_Emily_Harrington_and_Lauren_Lee_climb_f_cm_np1_ba_med_3 193 0
+dataset/hmdb51/RGB-feature/Stage_Combat_Rapier_and_Dagger_fencing_f_cm_np2_le_bad_0 47 1
+dataset/hmdb51/RGB-feature/Ernie_Els_Swing__Big_easy!_golf_f_cm_np1_fr_med_0 77 2
+dataset/hmdb51/RGB-feature/Nike_Soccer_Commercial_-_Good_vs__Evil_kick_ball_f_cm_np1_fr_med_3 56 3
+dataset/hmdb51/RGB-feature/How_to_do_pull-ups_Chin_ups_pullup_u_cm_np1_fr_bad_2 81 4
+dataset/hmdb51/RGB-feature/PracticingBoxingonaDoubleEndBag-LeadRightwithaHook_punch_u_nm_np1_fr_med_14 98 5
+dataset/hmdb51/RGB-feature/100_push_ups_by_a_GIRL!!!_pushup_f_nm_np1_fr_goo_2 81 6
+dataset/hmdb51/RGB-feature/1996_Tour_de_France_-_Indurain_Cracks_ride_bike_f_cm_np1_ba_med_1 123 7
+dataset/hmdb51/RGB-feature/Paula_sHorsebackRidingLesson!7_22_08_ride_horse_f_cm_np1_ri_med_5 137 8
+dataset/hmdb51/RGB-feature/LearnToShootFromTheMaster_shoot_ball_f_cm_np1_ba_med_6 83 9
+dataset/hmdb51/RGB-feature/KLArchery_shoot_bow_u_cm_np1_fr_med_0 280 10
+dataset/hmdb51/RGB-feature/20060723sfjffschmoozer_walk_f_cm_np2_ri_med_0 37 11

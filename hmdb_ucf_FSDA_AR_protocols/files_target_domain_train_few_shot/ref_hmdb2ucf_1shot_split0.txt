@@ -1,0 +1,12 @@
+dataset/ucf101/RGB-feature/v_RockClimbingIndoor_g10_c05 426 0
+dataset/ucf101/RGB-feature/v_Fencing_g12_c02 130 1
+dataset/ucf101/RGB-feature/v_GolfSwing_g09_c03 195 2
+dataset/ucf101/RGB-feature/v_SoccerPenalty_g20_c03 183 3
+dataset/ucf101/RGB-feature/v_PullUps_g14_c03 86 4
+dataset/ucf101/RGB-feature/v_BoxingSpeedBag_g09_c06 313 5
+dataset/ucf101/RGB-feature/v_PushUps_g09_c02 84 6
+dataset/ucf101/RGB-feature/v_Biking_g24_c06 248 7
+dataset/ucf101/RGB-feature/v_HorseRiding_g24_c07 240 8
+dataset/ucf101/RGB-feature/v_Basketball_g22_c02 102 9
+dataset/ucf101/RGB-feature/v_Archery_g13_c04 166 10
+dataset/ucf101/RGB-feature/v_WalkingWithDog_g20_c06 240 11
