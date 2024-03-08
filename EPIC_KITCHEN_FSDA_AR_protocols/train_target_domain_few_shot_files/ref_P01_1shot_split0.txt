@@ -1,0 +1,8 @@
+dataset/epic-kitchens/I3D-feature-pretrain/train/P01/P01_05/582 116 0
+dataset/epic-kitchens/I3D-feature-pretrain/train/P01/P01_06/718 62 1
+dataset/epic-kitchens/I3D-feature-pretrain/train/P01/P01_18/2058 251 2
+dataset/epic-kitchens/I3D-feature-pretrain/train/P01/P01_18/2013 196 3
+dataset/epic-kitchens/I3D-feature-pretrain/train/P01/P01_02/387 549 4
+dataset/epic-kitchens/I3D-feature-pretrain/train/P01/P01_10/1521 1017 5
+dataset/epic-kitchens/I3D-feature-pretrain/train/P01/P01_01/221 1934 6
+dataset/epic-kitchens/I3D-feature-pretrain/train/P01/P01_18/2309 184 7
