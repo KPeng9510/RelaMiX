@@ -44,6 +44,6 @@ There should be at least two `DATASET` folders: source training set  and validat
 
 ### File lists for training/validation
 Please check the folder for EPIC_KITCHEN_FSDA_AR_protocols, hmdb_ucf_FSDA_AR_protocols, and Sims4TSH_FSDA_AR_protocols.
-we also provided the model weights in https://drive.google.com/drive/folders/1Fxj8ylY-eLE87sM1EVBo_a5Pb5OB2n7E?usp=drive_link and the features used in EPIC-KITCHEN, note that they are newly trained weights, which might have slight deviations due to the randomness of the library. In case your reproduced results are different we suggest you to run multiple times or different seeds.
+we also provided the model weights in https://drive.google.com/drive/folders/1Fxj8ylY-eLE87sM1EVBo_a5Pb5OB2n7E?usp=drive_link and the features used in EPIC-KITCHEN, note that they are newly trained weights, which might have slight deviations due to the randomness of the library. In case your reproduced results from your own trained models are different we suggest you to run multiple times or different seeds.
 
 
